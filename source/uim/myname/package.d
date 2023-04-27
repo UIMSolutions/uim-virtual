@@ -1,7 +1,7 @@
-module uim.myname;
+module uim.virtual;
 
 public { // myname packages
-    import uim.myname.classes;
-    import uim.myname.interfaces;
-    import uim.myname.mixins;
+    import uim.virtual.classes;
+    import uim.virtual.interfaces;
+    import uim.virtual.mixins;
 }
